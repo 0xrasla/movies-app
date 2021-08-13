@@ -1,7 +1,7 @@
 # A Simple Movie app Created using react, where you can search for movies, see details about particular movie, add to favorites, and feautured movies
 # Feel free to clone the repo and change the code!
 
-## Available Scripts
+## How to Run
 
 In the project directory, you can run:
 
@@ -12,3 +12,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+# If u do something with this code, let me know! i am also eager to see the results
