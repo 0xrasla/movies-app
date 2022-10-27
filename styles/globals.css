@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+body {
+    background-color: black;
+    font-family: 'Poppins', sans-serif !important;
+}
+
+/* make the side scroll bar looks small and gray */
+::-webkit-scrollbar {
+    width: 5px;
+    background-color: #ffffff4e;
+    height: 5px;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
