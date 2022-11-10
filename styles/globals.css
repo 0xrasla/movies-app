@@ -5,11 +5,14 @@ body {
     font-family: 'Poppins', sans-serif !important;
 }
 
-/* make the side scroll bar looks small and gray */
 ::-webkit-scrollbar {
     width: 5px;
     background-color: #ffffff4e;
     height: 5px;
+}
+
+body .sidebar-link:hover > sidebar-icon + sidebar-label {
+    color: #ffffff !important;
 }
 
 @tailwind base;
